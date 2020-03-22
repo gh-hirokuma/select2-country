@@ -1,0 +1,19 @@
+{
+  "name": "jquery-select-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o css/generated.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "jquery": "^3.4.1",
+    "postcss-cli": "^7.1.0",
+    "select2": "^4.0.13",
+    "tailwindcss": "^1.2.0"
+  }
+}
