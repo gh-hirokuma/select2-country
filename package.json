@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.7.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "postcss-cli": "^7.1.0",
     "select2": "^4.0.13",
     "tailwindcss": "^1.2.0"
